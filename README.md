@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Galih Gratia Arno]  
+# 👋 Hi there! I'm Galih Gratia Arno  
 Welcome to my GitHub profile! I’m a **Junior Software Engineer** passionate about building impactful software solutions.
 
 ## 🚀 About Me
