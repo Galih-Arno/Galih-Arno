@@ -13,9 +13,6 @@ Welcome to my GitHub profile! I’m a **Junior Software Engineer** passionate ab
 - **Data Science**: Pandas, Matplotlib, Scikit-Learn  
 - **Tools**: Git, Colab 
 
-## 🌟 Featured Projects
-- **My Portofolio**: https://galiharno.vercel.app/
-
 ## 📫 Contact Me
 Feel free to reach out to me via:
 - **Email**: giganuto@gmail.com
